@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "name": "one"
+    },
+    {
+      "name": "two"
+    }
+  ],
+  "meta": {
+    "note": "see: this colon is inside a value",
+    "owner": "Zoë"
+  },
+  "name": "edge-case",
+  "version": "2.0.0"
+}

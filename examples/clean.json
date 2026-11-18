@@ -1,0 +1,8 @@
+{
+  "author": {
+    "email": "ada@example.com",
+    "name": "Ada"
+  },
+  "name": "my-app",
+  "version": "1.0.0"
+}
